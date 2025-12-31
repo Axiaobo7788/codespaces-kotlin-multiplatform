@@ -1,4 +1,4 @@
-Codespaces Android SDK CE (Community Edition)
+Codespaces Kotlin Multiplatform
 ---------------------------------------------
 
 A codespace repository configured to install android
@@ -12,7 +12,7 @@ development tools.
     * Maven
     * Ant
     * Meson
-    * Java 25 (Oracle)
+    * Java 21
     * Android SDK
 
 ## Usage
@@ -23,7 +23,7 @@ including it as a submodule in an existing project.
 
 To import as a submodule use 'git submodule add'
 
-    git submodule add https://github.com/raymond-chetty/codespaces-AndroidSDK-CE .devcontainer
+    git submodule add https://github.com/Axiaobo7788/codespaces-kotlin-multiplatform
 
 In theory it is possible to add access to additional
 repositories within a codespace using 'customizations'
